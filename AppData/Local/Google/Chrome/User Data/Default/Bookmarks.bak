@@ -1,0 +1,148 @@
+{
+   "checksum": "bc37618d8086130c6fd259ff58ac56a0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13249713172264564",
+            "guid": "d513f222-7d16-47f6-8f03-988ca3279f02",
+            "id": "7",
+            "name": "Google",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13249713165424466",
+            "guid": "bd424263-59f8-413c-aae4-f72a55cf0e7e",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/?hl=es-419&gl=MX"
+         }, {
+            "date_added": "13249713191996294",
+            "guid": "f4e32419-ff79-45da-bf9d-443e2bb15950",
+            "id": "8",
+            "name": "Facebook ",
+            "type": "url",
+            "url": "https://es-la.facebook.com/"
+         }, {
+            "date_added": "13249713215637220",
+            "guid": "ae4f658c-3a13-430d-b02e-7fd77d9e2ed4",
+            "id": "9",
+            "name": "Instagram",
+            "type": "url",
+            "url": "https://www.instagram.com/?hl=es-la"
+         }, {
+            "date_added": "13249713447907490",
+            "guid": "e2d39365-56ce-45bf-8397-2647b5a30004",
+            "id": "11",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "children": [ {
+               "date_added": "13249713791014325",
+               "guid": "eb9080f5-3259-4827-be2d-36a7a08d2106",
+               "id": "12",
+               "name": "Desarrollo Profesional de Temas y Plugins de WordPress | Udemy",
+               "type": "url",
+               "url": "https://www.udemy.com/course/experto-de-photoshop-a-wordpress-creando-2-themes-plantillas/"
+            }, {
+               "date_added": "13249765893598911",
+               "guid": "979cdcf9-a58f-42b3-8325-76415d9b7995",
+               "id": "15",
+               "name": "freepik",
+               "type": "url",
+               "url": "https://www.freepik.es/"
+            }, {
+               "date_added": "13249792898224990",
+               "guid": "b22238b3-0828-4971-bcbf-00fefa9d1152",
+               "id": "18",
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "children": [ {
+                  "date_added": "13249794259529364",
+                  "guid": "8b489bc2-c56c-4024-96ac-8cfeded254a9",
+                  "id": "22",
+                  "name": "Campus Mi UnADM: Ingresar al sitio",
+                  "type": "url",
+                  "url": "https://campus.unadmexico.mx/login/index.php"
+               }, {
+                  "date_added": "13249794088897264",
+                  "guid": "4ff09611-cfd3-48ae-9372-7840152f6c77",
+                  "id": "19",
+                  "name": "Inicio",
+                  "type": "url",
+                  "url": "https://www.unadmexico.mx/"
+               }, {
+                  "date_added": "13249794240657142",
+                  "guid": "163dff52-ab7e-4607-909e-f4baea3d78f6",
+                  "id": "21",
+                  "name": "SIGUE",
+                  "type": "url",
+                  "url": "https://sige.unadmexico.mx:28181/cas2/login?service=https%3A%2F%2Fsige.unadmexico.mx%3A28182%2Fsige%2Flogin%2Fcas"
+               } ],
+               "date_added": "13249794099528738",
+               "date_modified": "13249850132223967",
+               "guid": "31f20eb7-0f84-412e-805f-16f503c0d064",
+               "id": "20",
+               "name": "UnADM",
+               "type": "folder"
+            } ],
+            "date_added": "13249713800869320",
+            "date_modified": "13249794088897264",
+            "guid": "4a9e1466-fbb9-45fc-a37d-a9ee74243c2a",
+            "id": "13",
+            "name": "Juan",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13249850153880961",
+               "guid": "87d488e1-22cc-4144-9c90-88f244b700ee",
+               "id": "26",
+               "name": "Descargador de YouTube - Descarga Video y Audio de YouTube",
+               "type": "url",
+               "url": "https://www.y2mate.com/es18"
+            }, {
+               "date_added": "13249850132223967",
+               "guid": "91f6941c-7202-48b0-a222-25c272e88d02",
+               "id": "24",
+               "name": "MP3",
+               "type": "url",
+               "url": "https://www.y2mate.com/es18"
+            } ],
+            "date_added": "13249850153880669",
+            "date_modified": "13249850156069921",
+            "guid": "b7897fad-456f-476b-936c-dcc6c31d9e93",
+            "id": "25",
+            "name": "MP3",
+            "type": "folder"
+         } ],
+         "date_added": "13249712560133400",
+         "date_modified": "13249850140625657",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13249712560133408",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13249712560133410",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Marcadores del móvil",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
