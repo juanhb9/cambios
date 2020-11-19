@@ -1,5 +1,5 @@
 {
-   "checksum": "0e0f2806eb3d6ed47264f33de4c6d220",
+   "checksum": "58f83557e9bff4a3216cbe3bd5cb8098",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -103,12 +103,34 @@
                   "name": "freepik",
                   "type": "url",
                   "url": "https://www.freepik.es/"
+               }, {
+                  "date_added": "13250104384383028",
+                  "guid": "54d7281f-923b-4208-89aa-124fcd9494f2",
+                  "id": "33",
+                  "name": "Lorem Picsum",
+                  "type": "url",
+                  "url": "https://picsum.photos/"
                } ],
                "date_added": "13250015459173420",
-               "date_modified": "13250015462946006",
+               "date_modified": "13250205172769464",
                "guid": "c713a076-9d75-4b63-a508-6889f924a789",
                "id": "31",
                "name": "IMAGENES",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13250205172769464",
+                  "guid": "f8cf5064-ec32-4daf-9b05-f277e41dbb13",
+                  "id": "35",
+                  "name": "Font Awesome",
+                  "type": "url",
+                  "url": "https://fontawesome.com/"
+               } ],
+               "date_added": "13250205185690239",
+               "date_modified": "13250205185690302",
+               "guid": "73fb0545-afc3-4a1f-868b-8cdbb95aaa3b",
+               "id": "36",
+               "name": "ICONS",
                "type": "folder"
             } ],
             "date_added": "13249713800869320",
